@@ -22,5 +22,4 @@ export default function RootLayout() {
     </ThemeProvider>
   );
 }
-//teste
 
